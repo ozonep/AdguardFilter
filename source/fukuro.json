@@ -1,0 +1,42 @@
+{
+    "name": "Fukuro Filter",
+    "sources": [
+      {
+        "name": "Adguard DNS Filter",
+        "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Steven Black",
+        "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+        "type": "hosts"
+      },
+      {
+          "name": "tiuxo",
+          "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
+          "type": "hosts"
+      },
+      {
+          "name": "oisd",
+          "source": "https://abp.oisd.nl/",
+          "type": "adblock"
+      },
+      {
+          "name": "1Hosts Lite",
+          "source": "https://badmojr.gitlab.io/1hosts/Lite/hosts.txt",
+          "type": "hosts"
+      },
+      {
+          "name": "hostsVN",
+          "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
+          "type": "hosts"
+      },
+      {
+          "name": "hBlock",
+          "source": "https://hblock.molinero.dev/hosts_adblock.txt",
+          "type": "adblock"
+      }
+    ],
+    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
+    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+  }
