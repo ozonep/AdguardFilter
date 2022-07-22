@@ -1,0 +1,143 @@
+! Caused by «Licolnlee's AdBlock» (https://github.com/Licolnlee/AdBlockList) and by neoHosts Full (who at least discloses this in its Readme, but only in Chinese; https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts). Previously more than 10 list projects were affected by this.
+@@||aboluowang.com^
+@@||bannedbook.org^
+@@||dafahao.com^
+@@||dafahao.org^
+@@||dafamedia.or.kr^
+@@||dajiyuan.com^
+@@||dajiyuan.org^
+@@||dongtaiwang.com^
+@@||epochtimes.com.tw^
+@@||epochtimes.com^
+@@||epochtimes.org^
+@@||epochweekly.com^
+@@||falunau.org^
+@@||falundafa-srilanka.org^
+@@||falundafa.gr^
+@@||falundafa.org.tw^
+@@||falundafa.org^
+@@||falundafamuseum.org^
+@@||falundata.com^
+@@||falungong.club^
+@@||falungongbrasil.net^
+@@||faluninfo.net^
+@@||falunpilipinas.net^
+@@||fgmtv.org^
+@@||friendsofshenyun.org^
+@@||guangming.org^
+@@||ippotv.com^
+@@||landofhope.tv^
+@@||mhradio.org^
+@@||minghui.com^
+@@||minghui.org^
+@@||ntdtv.com.tw^
+@@||ntdtv.com^
+@@||ntdtv.org^
+@@||renminbao.com^
+@@||secretchina.com^
+@@||shenyun.com^
+@@||shenyun.org^
+@@||shenyundancer.com^
+@@||shenyunperformingarts.org^
+@@||shenyunshop.com^
+@@||shenzhoufilm.com^
+@@||shu.best^
+@@||soundofhope.org^
+@@||tiantibooks.org^
+@@||tianyinmusic.com^
+@@||tuidang.org^
+@@||wujieliulan.com^
+@@||xinsheng.net^
+@@||yuanming.net^
+@@||zhengjian.org^
+@@||zhengwunet.org^
+@@||zhuichaguoji.org^
+
+!#if !adguard
+! Caused by «Windscribe Clickbait» (https://assets.windscribe.com/custom_blocklists/clickbait.txt)
+@@||buzzfeed.com^
+
+! Caused by «QAnon conspiracy nazi blocklist» (https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt.ipv6)
+@@||mewe.com^
+@@||wikileaks.org^
+@@||t.me^
+!#endif
+
+! Caused by «ABP Japanese Filters» (https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt)
+@@||lemondeinformatique.fr^
+
+!#if env_mobile
+! Caused by «Liste AR» (Ensures that DailyMotion pages load properly in at least AdGuard Home)
+@@||vendorlist.dmcdn.net^
+!#endif
+
+! Domains that cause Error -105 on my LG 43UH603V TV if they're blocked (Not in any known filterlists)
+@@||connected-devices.viaplay.tv^
+@@||tv.deezer.com^
+@@||lgrecommends.lgappstv.com^
+! Disney+
+@@||cd-dmgz.bamgrid.com^
+
+! Good sites used to scan domains for malware or ads, and which should/must be allowlisted to avoid having entries in various filterlists interfere with their scanning (Not in any known domains-based filterlists)
+@@||siteadvisor.com^
+@@||securitytrails.com^
+@@||securitytrails.com^$elemhide
+@@||www.joesandbox.com^
+@@||virustotal.com^
+@@||fortiguard.com^
+@@://safeweb.norton.com^
+@@||scumware.org^
+@@||sitecheck.sucuri.net^
+@@||safebrowsing.google.com^
+@@://global.sitesafety.trendmicro.com^
+@@://www.fortiguard.com^
+@@||dbl.oisd.nl^$elemhide
+@@||vulners.com^
+!#if false
+@@||testsafebrowsing.appspot.com^
+!#endif
+
+! https://wiki.manjaro.org/index.php/Pacman-mirrors#Use
+@@://wikipedia.org^
+@@|github.com|
+@@://github.com|
+@@||bitbucket.org^
+
+! https://github.com/easylist/easylist/issues/8367 - Unblocks entries that accidentally blank entire pages
+#@#html
+#@#body
+
+! Connection pages for hotel/train/boat Wi-Fi networks (Entries for additional networks are always desired)
+! Norrtåg
+@@||internet--access.net^
+! Narvesen
+@@||network-auth.com^
+! Thon Hotels
+@@||netnordic.net^
+@@||thonhotels.no^
+! Britannia Hotell
+@@||hospitality.thecloud.eu^
+! Burger King
+@@||service.thecloud.eu^
+! Rema 1000
+@@||rema1000-kunde.rema.no^
+! Krambua
+@@||airid.cloud^
+! Radisson Blu
+@@||login.mikenopa.com^
+! Scandic Hotels
+@@||hoisthospitality.com^
+! Clas Ohlson
+@@||connectivitycheck.gstatic.com^
+@@||guestportal.clasohlson.eu^
+! 'If' Insurance
+@@||visitor.if.eu^
+! Jordbærpikene
+@@||portal.skyid.no^
+! Nille
+@@||central-eu.cloudguest.central.arubanetworks.com^
+! University of Trondheim - NTNU
+@@||wireless.ntnu.no^
+
+! HTTPS certificate verifiers
+@@||lencr.org^
