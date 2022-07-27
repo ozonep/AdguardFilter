@@ -1,6 +1,6 @@
 !
 ! Title: Fukuro Extra
-! Last modified: 2022-07-27T01:53:50.046Z
+! Last modified: 2022-07-27T12:41:28.327Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -142170,6 +142170,45 @@
 ||xystoiwkly.cam^
 ||yuechioman.cam^
 ||zincidcough.cam^
+||entwithou.xyz^
+||chedstimaarr.pics^
+||yctamonieomgb.com^
+||wrxqupnusmdewe.com^
+||ohaaobhvnztj.com^
+||chgzguhkue.com^
+||flvrbgvpbehhu.com^
+||npcwfrohnshriw.com^
+||jqyexkcsd.com^
+||gnyergfy.com^
+||yxsgrdxga.com^
+||orqsvaxn.com^
+||yxpyjyhjj.com^
+||vswlxqhvjiz.com^
+||fcouvtlwzocok.com^
+||jhlcrejfi.com^
+||mynkzqogcd.com^
+||ecybnxxpeq.com^
+||ksdlzcmvmj.com^
+||jfecfzzuwevyqc.com^
+||xryecggeczcvpk.com^
+||fpetwqpzqf.com^
+||tyiqebrbpxc.com^
+||zeikvvbobop.com^
+||igreskfq.com^
+||vhrtgvzcmrfoo.com^
+||ucbnxsmgdf.com^
+||xwvbbphb.com^
+||iwkexdab.com^
+||preurllvrbrvng.com^
+||yajlpetccbodq.com^
+||ttwscqlqmbcb.com^
+||pncqcqdj.com^
+||mqqrcdxbnog.com^
+||rzqqpamj.com^
+||wmkqxqwpyodrl.com^
+||zaamuvqteety.com^
+||oeyiamwpj.com^
+||jijpbehzw.com^
 ||deviuser.com^
 /^(https?://)?(www\.)?cunt[a-z]{3,8}\.com(/|$)/
 ||code-zp.com^
@@ -143285,6 +143324,7 @@
 ||szxo.link^
 ||ujtj.link^
 ||wznp.link^
+||k-yw.com^
 
 ||downloadprovider.me^
 ||cash93.com^
@@ -144909,8 +144949,6 @@
 ||airdrop-discord.ru^
 ||airmake.ru^
 ||akellasport.me^
-||asstralissteam.org.ru^
-||astralliscase.org.ru^
 ||battiefy.com^
 ||beast-dr0p.ru^
 ||beast-winer.ru^
@@ -145025,7 +145063,6 @@
 ||hypercups.ru^
 ||id-safedeal.online^
 ||idchecker.xyz^
-||justcase.net.ru^
 ||keydrop.org.ru^
 ||keys-dropes.com^
 ||keysdropes.com^
@@ -145141,10 +145178,7 @@
 ||steancommynuti.ru^
 ||steancomunlty.ru^
 ||steanconmunyti.ru^
-||steanmcomnynuytiy.org.ru^
-||steanmconnynuytiy.net.ru^
 ||steanmconynnuytiy.
-||steanmconynnuytiy.org.ru^
 ||steanncmmunytiy.ru^
 ||stearncomminuty.click^
 ||stearncomminuty.link^
@@ -145261,6 +145295,89 @@
 ||motionlessguardedparasite.com^
 ||jeopardizeincentive.com^
 ||domesticatedrejoicelisp.com^
+||2spendless.
+||acrx.co^
+
+||acrx.news^
+||acrx.online^
+||acrx.org^
+||acrx.press^
+||acrx.shop^
+||acrx.xyz^
+||acrxcards.
+||acrxcoupon.
+||acrxcoupons.
+||acrxnews.
+||acrxpetcare.press^
+||americanconsultantrx.
+||americanconsultantsrx.
+||covidrelief.cyou^
+||covidrelief.digital^
+||covidrelief.guru^
+||covidrelief.icu^
+||covidrelief.news^
+||covidrelief.online^
+||covidrelief.press^
+||covidrelief.shop^
+||covidrelief.today^
+||covidrelief.website^
+||covidrelief.xyz^
+||discountdrug.cheap^
+
+||discountdrug.news^
+||discountdrug.online^
+||discountdrug.press^
+||discountdrug.site^
+||discountdrugs.digital^
+||discountdrugs.icu^
+||discountdrugs.news^
+||discountdrugs.online^
+||discountdrugs.press^
+||discountdrugs.store^
+||discountprescription.xyz^
+||drugcoupon.news^
+||drugcoupon.online^
+||drugcoupon.press^
+||drugcoupon.xyz^
+||drugcoupons.news^
+||drugcoupons.xyz^
+||freehealthcare.press^
+||freemedication.news^
+||freemedication.press^
+||freemedicine.digital^
+||freemedicine.guru^
+||freemedicine.info^
+
+||freemedicine.news^
+||freemedicine.online^
+||freemedicine.press^
+||freemedicine.quest^
+||freemedicine.services^
+||freemedicine.website^
+||freemedicine.xyz^
+||freemedicinecoupons.com^
+
+||freemedicinecoupons.press^
+||freemedicinecoupons.site^
+||freemedicinecoupons.website^
+||freemedicinehelp.com^
+||freemedicinehelp.digital^
+
+||freemedicinehelp.online^
+||freemedicinehelp.press^
+||medication.coupons^
+
+||medication.quest^
+||medicinecoupons.digital^
+||medicinecoupons.space^
+||medicinecoupons.xyz^
+||medicinehelp.news^
+||ppesupplies.club^
+||ppesupplies.info^
+||ppesupplies.news^
+||ppesupplies.shop^
+||ppesupplies.xyz^
+||ingeniovirtual.com^
 ||foxsportnetwork.com^
 ||pksauniversity.com^
 ||sharedmega.com^
@@ -151515,7 +151632,6 @@
 ||chewbacca.cybereps.com^
 ||cheynewalk.com^
 ||chez-lai.com^
-||chgzguhkue.com^
 ||chiangmaihotels.co^
 ||chic-avenue.fr^
 ||chicagocutsteakhouse.com^
@@ -154330,7 +154446,6 @@
 ||ecrackdiablo3.com^
 ||ecstay.website^
 ||ecurrency4all.com^
-||ecybnxxpeq.com^
 ||edauto.ga^
 ||edchiu.com^
 ||edcomparison.com^
@@ -155365,7 +155480,6 @@
 ||fckxdb.hometogo.it^
 ||fcluqg.cn^
 ||fclyon.basket.free.fr^
-||fcouvtlwzocok.com^
 ||fcserbiaunited.com^
 ||fcssqw.com^
 ||fcstradesolutions.com^
@@ -155839,7 +155953,6 @@
 ||flushmviolent.org^
 ||flux-adserver.com^
 ||fluxserveasia.com^
-||flvrbgvpbehhu.com^
 ||fly-shops.ru^
 ||fly2.com.tw^
 ||flycash.org^
@@ -155977,7 +156090,6 @@
 ||fpctool.xyz^
 ||fpert.qpoe.com^
 ||fpetraardella.band^
-||fpetwqpzqf.com^
 ||fpstool.com^
 ||fra-01.braze.eu^
 ||fragba.com^
@@ -157377,7 +157489,6 @@
 ||gnosmij.com^
 ||gnoubalarab.com^
 ||gnounbit.rest^
-||gnyergfy.com^
 ||go-clicks.de^
 ||go-gal.com^
 ||go-quicky.com^
@@ -159131,7 +159242,6 @@
 ||igov-service.net^
 ||igpasshack.com^
 ||igpgame.com^
-||igreskfq.com^
 ||igri2011.ru^
 ||igrok.rocks^
 ||igtqora.cn^
@@ -159779,7 +159889,6 @@
 ||iwgfdj.iko-yo.net^
 ||iwhab.randbinternationaltravel.com^
 ||iwithu.ru^
-||iwkexdab.com^
 ||ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com^
 ||ixeajki.cn^
 ||ixihet.cn^
@@ -159943,7 +160052,6 @@
 ||jeyttn.snipes.com^
 ||jfashop.net^
 ||jfdyw.com^
-||jfecfzzuwevyqc.com^
 ||jfgjfr5jdfj.vv.cc^
 ||jfhvip.com^
 ||jfnutts.com^
@@ -159958,7 +160066,6 @@
 ||jgkxjhx-shoes09.com^
 ||jgzhsu.caterer.com^
 ||jhkj.work^
-||jhlcrejfi.com^
 ||jhpxqp.alfaromeo.it^
 ||jhuzw.pw^
 ||ji88.com^
@@ -159969,7 +160076,6 @@
 ||jibonerareknamtaka.com^
 ||jiciqm.antalyahomes.com^
 ||jih465flash.com^
-||jijpbehzw.com^
 ||jikenick12and67.com^
 ||jiliw.com^
 ||jinssimon.com^
@@ -160088,7 +160194,6 @@
 ||jquerycdn.host^
 ||jqueryjsscript.ru^
 ||jqxqddvyw.com^
-||jqyexkcsd.com^
 ||jraasj.kobo.com^
 ||jragrau.in^
 ||jrcompanyhack.com^
@@ -160589,7 +160694,6 @@
 ||krutor.eu.org^
 ||ksadrewrty.com^
 ||ksdiy.com^
-||ksdlzcmvmj.com^
 ||ksdnewr.com^
 ||ksergyale.xyz^
 ||ksh-m.ru^
@@ -163017,7 +163121,6 @@
 ||mprrpt.hjkl45678.xyz^
 ||mqjeut5.com^
 ||mqngmq.bigmeble.eu^
-||mqqrcdxbnog.com^
 ||mqwcuesny6.ru^
 ||mrappolt.de^
 ||mrcrackworld.com^
@@ -163260,7 +163363,6 @@
 ||mynavytoday.com^
 ||mynebo7.xyz^
 ||mynews-line.com^
-||mynkzqogcd.com^
 ||myoctotracker.com^
 ||myon.biz^
 ||myonlinegrond.site^
@@ -163892,7 +163994,6 @@
 ||nowmusik.com^
 ||nownails.online^
 ||npcdn1.now.sh^
-||npcwfrohnshriw.com^
 ||npczil.maxandco.com^
 ||npecialukize.lol^
 ||nphhu.com^
@@ -164101,7 +164202,6 @@
 ||odtpmadfx5.space^
 ||oeooea.com^
 ||oeopi.ru^
-||oeyiamwpj.com^
 ||ofclans.com^
 ||offensepayinter.cf^
 ||offensepayinter.ga^
@@ -164149,7 +164249,6 @@
 ||ognyvoinfo.ru^
 ||ogtrk.net^
 ||ogusers.com^
-||ohaaobhvnztj.com^
 ||ohhdear.org^
 ||ohjrxj.personalizationmall.com^
 ||ohqyrgyh.ru^
@@ -164506,7 +164605,6 @@
 ||ornesabilasey.com^
 ||ornitholitewhitenet.familyofpraise.org^
 ||oroshiso-institutamque.magnetandmetal.com^
-||orqsvaxn.com^
 ||osakadepo.com^
 ||oscism.com^
 ||oshoa.iptvdeals.com^
@@ -165381,7 +165479,6 @@
 ||pmrdnt.tuincentrum.nl^
 ||pmssrv.mercadolibre.cl^
 ||pmssrv.mercadolibre.com.ar^
-||pncqcqdj.com^
 ||pnovfl.karaca.com^
 ||pnrqz.xyz^
 ||po.spynets.ru^
@@ -165663,7 +165760,6 @@
 ||prestigehackforghosts.dlcodes.com^
 ||pretendwag.info^
 ||prettylikeher.com^
-||preurllvrbrvng.com^
 ||preview-msn.org^
 ||preview.msn.com^
 ||pricecsgo.net^
@@ -170943,7 +171039,6 @@
 ||ttmusic.co.kr^
 ||ttreface.tk^
 ||tttxx.cn^
-||ttwscqlqmbcb.com^
 ||ttwwy.top^
 ||ttyihp.ochkov.net^
 ||ttyyeastfeukuf.xyz^
@@ -171092,7 +171187,6 @@
 ||txtplug.com^
 ||txtspy.org^
 ||tyha84.info^
-||tyiqebrbpxc.com^
 ||tyl123.cn^
 ||tyler14.com^
 ||tynnikhb.com^
@@ -171159,7 +171253,6 @@
 ||ubr-news.org^
 ||uc138.com^
 ||ucaas.avaya.com^
-||ucbnxsmgdf.com^
 ||ucfiles.com^
 ||uchebnik.online^
 ||uchservers.ga^
@@ -171948,7 +172041,6 @@
 ||vsnis.com^
 ||vsnoon.com^
 ||vstart.net^
-||vswlxqhvjiz.com^
 ||vte.nexteramedia.com^
 ||vtomate.biz^
 ||vtu1.co.cc^
@@ -172509,7 +172601,6 @@
 ||wmactive.ru^
 ||wmbankir.ru^
 ||wmbi4jr7hvonline.xyz^
-||wmkqxqwpyodrl.com^
 ||wmmty.top^
 ||wmplace.ru^
 ||wmqjzz.genius.tv^
@@ -172641,7 +172732,6 @@
 ||wrmfwu.cn^
 ||wroclawski.com.pl^
 ||wrutor.org.pl^
-||wrxqupnusmdewe.com^
 ||ws.yellowpages.ca^
 ||ws09ku66vbu31pka.tk^
 ||wsasxzertw.com^
@@ -173277,7 +173367,6 @@
 ||xrutor.eu^
 ||xrutor.eu.org^
 ||xrutor.ga^
-||xryecggeczcvpk.com^
 ||xsaudix.net^
 ||xsrzqh.vietnamplus.vn^
 ||xstats.in^
@@ -173309,7 +173398,6 @@
 ||xwfluid5.com^
 ||xwhhuav.cn^
 ||xwhymy.caco.com.tw^
-||xwvbbphb.com^
 ||xxi.ss.la^
 ||xxlefq.linternaute.fr^
 ||xxoo6.com^
@@ -173352,7 +173440,6 @@
 ||yahoo-statistic.com^
 ||yahoo.org.kz^
 ||yahoosite.ru^
-||yajlpetccbodq.com^
 ||yakusgewe.xyz^
 ||yalescoin.com^
 ||yaload.yaload.ru^
@@ -173399,7 +173486,6 @@
 ||ychqww.aboutyou.lv^
 ||yciorh.chaty-chalupy-dds.cz^
 ||ycrax.com^
-||yctamonieomgb.com^
 ||yctrs.top^
 ||ydcpc.com^
 ||ydhumcew.ru^
@@ -173634,8 +173720,6 @@
 ||yxdd.com^
 ||yxkgtyqmz.myfw.us^
 ||yxpwly.com^
-||yxpyjyhjj.com^
-||yxsgrdxga.com^
 ||yxwnst.best.lt.ua^
 ||yy32.com^
 ||yycvaemnomsjie.xyz^
@@ -173656,7 +173740,6 @@
 ||z2blog.com^
 ||z360.net^
 ||z3uu.com^
-||zaamuvqteety.com^
 ||zabenkot.top^
 ||zaczvk.pl^
 ||zadrb.zadrottv.ru^
@@ -173714,7 +173797,6 @@
 ||zebracheats.com^
 ||zebumpes.net^
 ||zee1qzzfnr.site^
-||zeikvvbobop.com^
 ||zelomeli.ru^
 ||zemuro.ru^
 ||zen-test.yandex.ru^
