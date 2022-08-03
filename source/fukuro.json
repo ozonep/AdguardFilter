@@ -12,6 +12,11 @@
         "type": "hosts"
       },
       {
+        "name": "Ad-wars",
+        "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+        "type": "hosts"
+      }
+      {
           "name": "tiuxo",
           "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
           "type": "hosts"
