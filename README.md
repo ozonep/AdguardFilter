@@ -1,0 +1,2 @@
+Main list: <a href="https://raw.githubusercontent.com/lukaskronus/FukuroFilter/main/filter.txt">Link</a>
+Extra list: <a href="https://raw.githubusercontent.com/lukaskronus/FukuroFilter/main/extra.txt">Link</a>

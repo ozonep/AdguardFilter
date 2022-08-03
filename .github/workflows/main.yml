@@ -15,7 +15,7 @@ jobs:
         node-version: '14'  
     - run: npm i -g @adguard/hostlist-compiler
     
-    - name: Compile Lite list
+    - name: Compile Extra list
       run: hostlist-compiler -c ./source/extra.json -o extra.txt
     
     - name: Compile Main list
