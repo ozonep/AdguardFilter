@@ -15,12 +15,15 @@ jobs:
         node-version: '14'  
     - run: npm i -g @adguard/hostlist-compiler
     
-    - name: Compile Extra list
-      run: hostlist-compiler -c ./source/extra.json -o extra.txt
-    
     - name: Compile Main list
       run: hostlist-compiler -c ./source/fukuro.json -o filter.txt
     
+    - name: Compile Lite list
+      run: hostlist-compiler -c ./source/lite.json -o lite.txt
+
+    - name: Compile Extra list
+      run: hostlist-compiler -c ./source/extra.json -o extra.txt
+         
     - name: Commit changes
       uses: EndBug/add-and-commit@v8
       with:
