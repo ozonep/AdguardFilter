@@ -1,6 +1,6 @@
 !
 ! Title: Fukuro Lite
-! Last modified: 2022-08-05T01:51:23.519Z
+! Last modified: 2022-08-05T12:38:19.076Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -78832,7 +78832,6 @@
 ||popcash.com^
 ||a-c-engine.com^
 ||a-cast.jp^
-||a.cookpad-ads.com^
 ||a.gree.jp^
 ||a.shopserve.jp^
 ||a1.goo.ne.jp^
@@ -83715,6 +83714,8 @@
 ||wpc.32DF9.rhocdn.net^
 
 
+||suptur.online^
+||sortingwild.com^
 ||lurefuleuryon.com^
 ||hnyjqhxmd.com^
 ||dqupwlanxmjhtx.com^
@@ -86251,6 +86252,7 @@
 ||0210bb49cd.com^
 ||0265331.com^
 ||02aa19117f396e9.com^
+||02b57bb965.com^
 ||0346420d60.com^
 ||039ad0897e6da.com^
 ||03ed9035a0801f.com^
@@ -87384,6 +87386,7 @@
 ||aj2373.online^
 ||aj2397.online^
 ||aj2430.online^
+||ajeyaxdcvogcx.com^
 ||ajfnee.com^
 ||ajileuztnu.com^
 ||ajillionmax.com^
@@ -87658,6 +87661,7 @@
 ||aqjdigkqvmakz.com^
 ||aqmgnoik.com^
 ||aquabibchawed.website^
+||arabdevastatingpatty.com^
 ||arablucidlygrease.com^
 ||aratyr.com^
 ||arbitrarydefectrightfully.com^
@@ -87836,6 +87840,7 @@
 ||attendantsteakfax.com^
 ||attentioniau.com^
 ||attrapincha.com^
+||attributedrelease.com^
 ||attributora.com^
 ||atwainbounce.com^
 ||atwcmxpww.com^
@@ -88132,6 +88137,7 @@
 ||bargaret.club^
 ||bargedoctarch.com^
 ||barkierrevives.com^
+||barleylatestinches.com^
 ||barlo.xyz^
 ||barnabaslinger.com^
 ||barneysunsharp.com^
@@ -88154,6 +88160,7 @@
 ||bathingonlay.com^
 ||bathingstage.com^
 ||bathyalmalkin.com^
+||batmenmessily.website^
 ||batsdivannab.com^
 ||batteryfirmimage.com^
 ||batteusp2hilenor.com^
@@ -88203,6 +88210,7 @@
 ||beaubitternessapplication.com^
 ||beauhoneycomb.com^
 ||beavertron.com^
+||beb2644a65.com^
 ||bebaytowns.com^
 ||bebreloomr.com^
 ||becacy.com^
@@ -88467,6 +88475,7 @@
 ||bloomplannervillager.com^
 ||bloomyarseno.com^
 ||blotcreepy.com^
+||blouseridge.com^
 ||blu5fdclr.com^
 ||bluedawning.com^
 ||bluedcrwth.com^
@@ -88559,6 +88568,7 @@
 ||bonertraffic14.pro^
 ||bongacams7.com^
 ||bonnilytooths.com^
+||bonus-point1.life^
 ||bonusmaniac.com^
 ||bonzai.ad^
 ||boodlewrite.com^
@@ -88670,6 +88680,7 @@
 ||brightshare.com^
 ||brillspedlars.com^
 ||brinkobdurate.com^
+||briolenproc.pics^
 ||brioletredeyes.com^
 ||bristlyxystus.com^
 ||briticatederfd.site^
@@ -89221,6 +89232,7 @@
 ||cialanaly.club^
 ||cigade.com^
 ||cigaretteprovenaffected.com^
+||cigrylecha.pro^
 ||cihakawkngiamu.com^
 ||cijexuthi.com^
 ||ciksolre.net^
@@ -89614,6 +89626,7 @@
 ||conyak.com^
 ||coojaiku.com^
 ||cookliverelk.com^
+||cookpad-ads.com^
 ||cooksrosiny.website^
 ||coollcloud.com^
 ||coolnessvinegar.com^
@@ -89817,6 +89830,7 @@
 ||cupoabie.net^
 ||cupsanotherdole.com^
 ||cupseedu.net^
+||curacaohaloing.website^
 ||curatcullion.com^
 ||curategeis.xyz^
 ||curbimpress.com^
@@ -89933,6 +89947,7 @@
 ||daipsuwi.net^
 ||dairma.com^
 ||dakolk.com^
+||dalarorganic.casa^
 ||dalecta.com^
 ||dallavel.com^
 ||daltauth.net^
@@ -90225,6 +90240,7 @@
 ||difief.com^
 ||digadser.com^
 ||digestiontub.com^
+||digitalmediapp.com^
 ||digressremarkableconfide.com^
 ||digresstrailfined.com^
 ||diguver.com^
@@ -90497,6 +90513,7 @@
 ||droopingmore.com^
 ||droppedrolling.com^
 ||dropzenad.com^
+||drpulgrcg.com^
 ||drpurrmcirwurb.com^
 ||druadirjfviwn.xyz^
 ||drumimaring.xyz^
@@ -91053,6 +91070,7 @@
 ||estoopsi.com^
 ||estrangefoolish.com^
 ||estuantunsnow.com^
+||etbglfmpuqurhys.com^
 ||etcintyai.com^
 ||etcodes.com^
 ||etesin.com^
@@ -91183,6 +91201,7 @@
 ||f3551539d6565853.com^
 ||f3f1317bda.com^
 ||f3udfa7nfguhni.com^
+||f451b7f622.com^
 ||f4906b7c15ba.com^
 ||f5080f5cee5a00.com^
 ||f5f84f4d83.com^
@@ -91944,6 +91963,7 @@
 ||gillotjugful.com^
 ||gimiliminibi.com^
 ||gimpybedderump.com^
+||gimypibo.pro^
 ||ginningsteri.com^
 ||girdlespittle.com^
 ||girise.com^
@@ -92049,6 +92069,7 @@
 ||gloutedaerated.com^
 ||gloviphewhe.com^
 ||glucinafumose.com^
+||glugherg.net^
 ||glugreez.com^
 ||glumpaul.net^
 ||glumtitu.net^
@@ -92182,6 +92203,7 @@
 ||gratingtode.com^
 ||graucoay.net^
 ||grauroocm.com^
+||grauwaiw.com^
 ||gravelringer.com^
 ||gravertoyons.com^
 ||graveuniversalapologies.com^
@@ -92232,6 +92254,7 @@
 ||groogleh.net^
 ||grooksom.com^
 ||grooptie.com^
+||grooseem.net^
 ||grootcho.com^
 ||groowzer.com^
 ||gropsanyda.com^
@@ -92736,6 +92759,7 @@
 ||hungerundo.com^
 ||hunoso.com^
 ||hunter-hub.com^
+||huntingarroyo.website^
 ||huppahshoras.com^
 ||hurapepy.com^
 ||hurdlewantingfalcon.com^
@@ -93200,6 +93224,7 @@
 ||ixcris.com^
 ||ixnow.xyz^
 ||ixnp.com^
+||ixodidsupdives.com^
 ||ixqfughrynmfh.com^
 ||iyfnz.com^
 ||iykiuacppty.com^
@@ -94042,6 +94067,7 @@
 ||liddid.com^
 ||lidjetsyak.com^
 ||lidney.com^
+||lifearchaicwhipped.com^
 ||lifestyleoptimisticsing.com^
 ||lifetimeroyaltybestial.com^
 ||lifiads.com^
@@ -94109,6 +94135,7 @@
 ||littlecutecats.com^
 ||littlecutedogs.com^
 ||littlecutelions.com^
+||litusher.com^
 ||livecheersharder.com^
 ||livelihoodpracticaloperating.com^
 ||liveredwilton.com^
@@ -94264,6 +94291,7 @@
 ||ltziyuyjoq.com^
 ||luadvazvjuuoj.com^
 ||luatgqssoyh.com^
+||lubbreton.com^
 ||lubowitz.biz^
 ||lucidahankul.com^
 ||lucidlydiscretion.com^
@@ -94666,6 +94694,7 @@
 ||middestkarsha.com^
 ||middlesswal.com^
 ||midgetincidentally.com^
+||midistortrix.com^
 ||midlandvenisondollars.com^
 ||midnightimpressionperception.com^
 ||midnightnosebleeddoorway.com^
@@ -95201,6 +95230,7 @@
 ||netpatas.com^
 ||netrailed.com^
 ||netund.com^
+||networkbest.ru.com^
 ||networkdarling.com^
 ||neupwvhayjm.com^
 ||neuronales.xyz^
@@ -95320,6 +95350,7 @@
 ||no2veeamggaseber.com^
 ||noagliph.com^
 ||noanawie.com^
+||noaon2.com^
 ||noapai.name^
 ||noaptauw.com^
 ||noawhaub.net^
@@ -95801,6 +95832,7 @@
 ||opposs.com^
 ||opsivesh.net^
 ||opsoomet.net^
+||optcrockery.com^
 ||opteama.com^
 ||opter.co^
 ||optimatic.com^
@@ -95917,6 +95949,7 @@
 ||outsimfat.site^
 ||outslang.com^
 ||outsmoke-niyaxabura.com^
+||outsoarcarouba.com^
 ||outsoarpg.com^
 ||outstandlpopi.xyz^
 ||ouzoadru.net^
@@ -96099,6 +96132,7 @@
 ||patriotinvestorlustre.com^
 ||patroposalun.pro^
 ||pattedmanlyunits.com^
+||paucifyunaware.com^
 ||pauewr4cw2xs5q.com^
 ||paula-secundinus.com^
 ||paurif.com^
@@ -96517,6 +96551,7 @@
 ||pompouseruptionrang.com^
 ||pompysxdz.com^
 ||pon-prairie.com^
+||ponderousmuffled.com^
 ||ponentshebar.com^
 ||ponk.pro^
 ||pontymonti.com^
@@ -97078,6 +97113,7 @@
 ||qel-qel-fie.com^
 ||qetdeddkscgu.com^
 ||qewuipkgtpotyb.com^
+||qffvrenbek.com^
 ||qfjherc.com^
 ||qfolkbbij.com^
 ||qftgykroh.com^
@@ -97418,6 +97454,7 @@
 ||reiqwxxd.com^
 ||reitb.com^
 ||rejjcles.xyz^
+||rejowhegru.com^
 ||rejqxhivuslw.com^
 ||reklamko.pro^
 ||reklamz.com^
@@ -98170,6 +98207,8 @@
 ||sevwhetheles.club^
 ||sewingdoubtlessperch.com^
 ||sewingfibber.com^
+||sexahah.com^
+||sexbugerte.xyz^
 ||sexiststurdygather.com^
 ||sexmoney.com^
 ||sexpieasure.com^
@@ -98885,12 +98924,14 @@
 ||subwaypumptrustworthy.com^
 ||succeedkid.com^
 ||successcompassion.com^
+||successfulpatience.com^
 ||suchshame.com^
 ||sucloe.com^
 ||suctioneliminatecongestion.com^
 ||suctorado-wrivate.icu^
 ||sudail.com^
 ||sufferingslippery.com^
+||sufficientretiredbunker.com^
 ||suffocatepremise.com^
 ||suggestionwallpaperhump.com^
 ||suhalyxi.com^
@@ -99000,6 +99041,7 @@
 ||swoste.com^
 ||swottedfra.com^
 ||swwpush.com^
+||syaomlovqeq.com^
 ||sydneygfpink.com^
 ||syduzothu.pro^
 ||sylewhywhe.com^
@@ -99503,6 +99545,7 @@
 ||towniesgauze.com^
 ||townsdatabasekidding.com^
 ||townsidewalkotter.com^
+||toyota.lol^
 ||toywafdduceezo.com^
 ||tp1jcgl644jk.com^
 ||tpcserve.com^
@@ -99583,6 +99626,7 @@
 ||treateryowler.com^
 ||treatlaurelbud.com^
 ||treeintentlytravel.com^
+||treeoutcry.com^
 ||trejar.com^
 ||trektinyreproduce.com^
 ||trellian.com^
@@ -99597,6 +99641,7 @@
 ||tridentpercy.com^
 ||trienestooth.com^
 ||trifaouthits.com^
+||triflinguncertainforensic.com^
 ||trigami.com^
 ||trillerseora.com^
 ||trimbrushed.com^
@@ -99830,6 +99875,7 @@
 ||uhxdsplo.com^
 ||uhzjdfpccxtne.com^
 ||uigruwtql.com^
+||uiqakwjmugofbuu.com^
 ||ujccccb.com^
 ||ujljbwnr.com^
 ||ujlvongqbjouubp.xyz^
@@ -100447,6 +100493,7 @@
 ||vueqfdry.com^
 ||vufizopi.pro^
 ||vugecymi.xyz^
+||vuhofiny.com^
 ||vukhhjzd.com^
 ||vuksew.com^
 ||vuksew10.com^
@@ -100811,6 +100858,7 @@
 ||wmnejndvberrd.com^
 ||wmonthsaft.biz^
 ||wmruzfvtg.com^
+||wmzrmmlgqe.com^
 ||wnbeiskivkkmpy.xyz^
 ||wnccxcgvkuoitmy.com^
 ||wndlkj.com^
@@ -101205,6 +101253,7 @@
 ||yestole.com^
 ||yezsfzruvxbqa.com^
 ||yfum.com^
+||yfupfhqxmwvu.com^
 ||ygamhusjtdzajm.com^
 ||ygcxcqgsnemsb.com^
 ||ygetatleiomrrr.com^
@@ -101440,6 +101489,7 @@
 ||zicyqbpqsg.com^
 ||zidedge.com^
 ||zidoudsa.net^
+||zifujwgejz.com^
 ||zigansherpa.com^
 ||zijaipse.com^
 ||zikroarg.com^
@@ -103083,6 +103133,7 @@
 ||ds02gfqy6io6i.cloudfront.net^
 ||ds88pc0kw6cvc.cloudfront.net^
 ||dsb6jelx4yhln.cloudfront.net^
+||dscex7u1h4a9a.cloudfront.net^
 ||dsh7ky7308k4b.cloudfront.net^
 ||dsie7h4lo9wxu.cloudfront.net^
 ||dtakdb1z5gq7e.cloudfront.net^
@@ -103708,7 +103759,6 @@
 ||events.busuu.com^
 ||intellimize.co^
 ||hitapi.pulpoar.com^
-||api.dataroid.com^
 ||counter.websiteout.net^
 ||cdn.topmind.io^
 ||audienceplay.com^
@@ -108679,6 +108729,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||datadsk.com^
 ||datamilk.app^
 ||datamind.ru^
+||dataroid.com^
 ||datasteam.io^
 ||datazoom.io^
 ||ddm.io^
@@ -108814,6 +108865,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||itracmediav4.com^
 ||janrain.xyz^
 ||journity.com^
+||js-delivr.com^
 ||jumplead.com^
 ||jumplead.io^
 ||junta.net^
@@ -110145,6 +110197,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d11a2fzhgzqe7i.cloudfront.net^
 ||d15kdaxu5c0hfw.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
+||d1733r3id7jrw5.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
@@ -110209,6 +110262,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||di2xwvxz1jrvu.cloudfront.net^
 ||dkupaw9ae63a8.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
+||dnxlgencstz4.cloudfront.net^
 ||dp64mxip2za0c.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
 ||dsbahmgppc0j4.cloudfront.net^
@@ -117173,6 +117227,17 @@ charlestownwyllie.oaklawnnonantum.com^
 ||gsxbxvd.cn^
 ||zengbalg.fun^
 ||collegepre.net^
+||xcwzq.xyz^
+||umkezbh.cn^
+||aqnpbpa.cn^
+||sdljvrf.cn^
+||venator.link^
+||666746.xyz^
+||eyaldw.cn^
+||rrpdhal.cn^
+||diamax.hk^
+||cruiseeagle.hk^
+||buliglss.space^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
