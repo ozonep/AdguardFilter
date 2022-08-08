@@ -1,6 +1,6 @@
 !
 ! Title: Fukuro Lite
-! Last modified: 2022-08-08T01:46:14.751Z
+! Last modified: 2022-08-08T12:38:48.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -117177,6 +117177,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||beolit.cn^
 ||fanjin.name^
 ||o06.xyz^
+||wuliglsg.space^
+||3fddkj.com^
+||xcjwq.world^
+||gujiadayuan.top^
+||mengte.top^
+||eofemms.cn^
+||hsswcei.cn^
+||sfzztox.cn^
+||jiatang.club^
+||afij001.xyz^
+||666749.xyz^
+||veugcz8.com^
+||dl66d.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
