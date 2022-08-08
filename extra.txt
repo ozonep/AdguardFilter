@@ -1,6 +1,6 @@
 !
 ! Title: Fukuro Extra
-! Last modified: 2022-08-07T12:32:31.502Z
+! Last modified: 2022-08-08T01:46:33.142Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
