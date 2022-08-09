@@ -1,6 +1,6 @@
 !
 ! Title: Fukuro Lite
-! Last modified: 2022-08-09T01:57:58.969Z
+! Last modified: 2022-08-09T12:42:19.407Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -86105,6 +86105,7 @@
 ||widget.tippebannere.no^
 ||deema.agency^
 ||cdn.sanjagh.com^
+||linkdoni.soft98.ir^
 ||sabavision.com^
 ||llog.pl^
 ||bsxmuny.wp.pl^
@@ -109000,6 +109001,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pipfire.com^
 ||piratepx.com^
 ||pirsch.io^
+||pixels.ai^
 ||plerdy.com^
 ||podfdch.com^
 ||popupmaker.com^
@@ -110012,6 +110014,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||statsd.zmags.com^
 ||statt-collect.herokuapp.com^
 ||sunlightmetrics.b-cdn.net^
+||svibeacon.onezapp.com^
 ||systemmonitoring.badgeville.com^
 ||t.auditedmedia.org.au^
 ||t.bimvid.com^
@@ -117197,6 +117200,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||youthlaw.name^
 ||markson.hk^
 ||xuliglsw.space^
+||shxr.technology^
+||herky.com.cn^
+||xcmno.xyz^
+||hgkzl.cn^
+||666752.xyz^
+||tuotianxia.top^
+||culiglsm.space^
+||rgbsl.com^
+||yuhuka.cc^
+||51grow.club^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -125476,7 +125489,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.gavelz.com^
 ||analytics.ninjakiwi.com^
 ||analytics.nova.fox.com^
-||analytics.pixels.ai^
 ||analytics.s.id^
 ||analytics.seg.ritual.com^
 ||analytics.sejda.com^
@@ -125595,7 +125607,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.xtb.com^
 ||stats.xtraffic.xyz^
 ||suriflowers.com^
-||svibeacon.onezapp.com^
 ||sync2ad.com^
 ||t.freelancer.com^
 ||tdf.ringier.ch^
