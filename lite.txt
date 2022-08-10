@@ -1,6 +1,6 @@
 !
 ! Title: Fukuro Lite
-! Last modified: 2022-08-10T01:41:01.416Z
+! Last modified: 2022-08-10T12:36:55.044Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -109416,6 +109416,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||leadbi.com^
 ||leadchampion.com^
 ||leaddyno.com^
+||leadfamly.com^
 ||leadinfo.net^
 ||leadintel.io^
 ||leadsleap.com^
@@ -117732,6 +117733,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xiezhong.club^
 ||xkzzyk.cn^
 ||okfzopj.cn^
+||ruliglso.space^
+||8feichai.com^
+||cxiwn.xyz^
+||vorlsblf.cyou^
+||qofvpbo.cn^
+||lorlsblh.cyou^
+||razasot.cn^
+||liuxiangxiang.top^
+||yihoo.biz^
+||yswphit.cn^
+||afjk001.xyz^
+||shaokaodaren.top^
+||shouzhuanfs.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -124462,7 +124476,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||new.htcui.com^
 ||news.fangdaijisuanqi.com^
 ||news.jiukang.org^
-||news.zsjxwj.com^
+||zsjxwj.com^
 ||norse.mingxiaow.com^
 ||ns1.chinayms.com^
 ||o.jy135.com^
