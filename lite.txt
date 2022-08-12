@@ -1,6 +1,6 @@
 !
 ! Title: Fukuro Lite
-! Last modified: 2022-08-12T01:47:15.401Z
+! Last modified: 2022-08-12T12:35:30.509Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -84229,6 +84229,8 @@
 ||wpc.32DF9.rhocdn.net^
 
 
+||shoresmmrnews.com^
+||ticaframeofm.xyz^
 ||casualdatingisreal.life^
 ||hot-dating-here.life^
 ||idreamed.com^
@@ -86623,7 +86625,6 @@
 ||widget.tippebannere.no^
 ||deema.agency^
 ||cdn.sanjagh.com^
-||linkdoni.soft98.ir^
 ||sabavision.com^
 ||llog.pl^
 ||bsxmuny.wp.pl^
@@ -103265,6 +103266,7 @@
 ||btr.domywife.com^
 ||c.bannerflow.net^
 ||campaigns.williamhill.com^
+||chicoryapp.com^
 ||commercial.daznservices.com^
 ||content.livesportmedia.eu^
 ||cpm.amateurcommunity.de^
@@ -110270,7 +110272,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cf.overblog.com^
 ||cgicounter.oneandone.co.uk^
 ||check.deadlinefunnel.com^
-||chicoryapp.com^
 ||cimage.adobe.com^
 ||click.appinthestore.com^
 ||clicktale.pantherssl.com^
@@ -117773,6 +117774,23 @@ charlestownwyllie.oaklawnnonantum.com^
 ||krurkex.com^
 ||iorlsblj.cyou^
 ||cclw.xyz^
+||666755.xyz^
+||ccrgxye.cn^
+||ofooe.cn^
+||chaojituoke.club^
+||ljoke.com^
+||teoopx.cn^
+||mbmqgo.cn^
+||xingcan168.xyz^
+||xsbndzklbm.com^
+||zumnxwva.ink^
+||nxyerol.cn^
+||vptjabo.cn^
+||zhuxin.link^
+||bhicxb.cn^
+||ezmppjg.cn^
+||wogukcd.xyz^
+||lpjms.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -124734,6 +124752,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
 
+@@||link.morningbrew.com^|
 @@||click.appcast.io^|
 @@||public-cis.exponea.com^|
 @@||anwb.webpower.eu^|
