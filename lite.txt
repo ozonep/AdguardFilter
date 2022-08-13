@@ -1,6 +1,6 @@
 !
 ! Title: Fukuro Lite
-! Last modified: 2022-08-13T01:41:20.037Z
+! Last modified: 2022-08-13T12:32:19.495Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -88347,6 +88347,7 @@
 ||alchemysocial.com^
 ||alcoated.com^
 ||alcroconawa.com^
+||aldeaamputee.com^
 ||aleailarm.com^
 ||alecupknuffe.com^
 ||alefrfobkoxbgaf.com^
@@ -89686,6 +89687,7 @@
 ||bulrev.com^
 ||bumblecash.com^
 ||bummershindigeavesdropping.com^
+||bummersrummagy.com^
 ||bummilpatten.com^
 ||bunchypueblo.com^
 ||buncoswosh.com^
@@ -96724,6 +96726,7 @@
 ||onstunkyr.com^
 ||ontoonefoldonefold.com^
 ||onxquxhoygaji.com^
+||oo00.biz^
 ||oocdqgado.xyz^
 ||oodrampi.com^
 ||oodraune.com^
@@ -96742,6 +96745,8 @@
 ||oovofcsyxayy.com^
 ||oowelamdgta.com^
 ||oozyunmix.com^
+||op01.biz^
+||op02.biz^
 ||opawyzoh.xyz^
 ||opcharizardon.com^
 ||opchikoritar.com^
@@ -96985,7 +96990,10 @@
 ||paginx.com^
 ||pagne4cham4hrobl.com^
 ||paht.tech^
+||pahtef.tech^
+||pahtgq.tech^
 ||pahthf.tech^
+||pahtky.tech^
 ||pahtwt.tech^
 ||pahtzh.tech^
 ||paigipto.net^
@@ -99127,6 +99135,7 @@
 ||serverbid.com^
 ||serverscurtain.com^
 ||serversfrenchruse.com^
+||servg1.net^
 ||servicegetbook.net^
 ||servicesrc.org^
 ||servingcdn.net^
@@ -104614,7 +104623,6 @@
 ||owtracking.us-east-1.elasticbeanstalk.com^
 ||cnt.trvdp.com^
 ||aghtag.tech^
-||pahtgq.tech^
 ||analytics2.awsli.com.br^
 ||pgs.io^
 ||script-sh.d2cdm.jp^
@@ -118207,6 +118215,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||norlsbly.cyou^
 ||99zuowen.com^
 ||001adafg.xyz^
+||iotewq.xyz^
+||666756.xyz
+||bumnxwvs.ink^
+||hxtryby.cn^
+||vflzdrv.cn^
+||juhuiguoji.wang^
+||keentech.top^
+||khaelzols.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
