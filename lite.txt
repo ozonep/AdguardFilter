@@ -1,6 +1,6 @@
 !
 ! Title: Fukuro Lite
-! Last modified: 2022-08-14T01:55:06.932Z
+! Last modified: 2022-08-14T12:33:11.895Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -84628,7 +84628,11 @@
 ||wpc.32DF9.rhocdn.net^
 
 
-||vptadv.com
+||imilroshoors.com^
+||thathechoxe.com^
+||glaichid.net^
+||kihudevo.pro^
+||vptadv.com^
 ||affiliate.klook.com^
 ||shoresmmrnews.com^
 ||ticaframeofm.xyz^
@@ -118230,6 +118234,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xorlsblw.cyou^
 ||qqpwhge.cn^
 ||yhilnc.cn^
+||mxlwmp.cn^
+||morlsbli.cyou^
+||666757.xyz^
+||5htftu.com^
+||globalso.biz^
+||zovgdpj.cn^
+||sdnc.top^
+||mnvrwq.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
