@@ -1,32 +1,31 @@
 {
-    "name": "Fukuro Lite",
+    "name": "Adguard Ru Lite",
     "sources": [
         {
-            "name": "StevenBlack",
-            "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-            "type": "hosts"
+            "name": "AlexSannikov Main",
+            "source": "https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/admalware.txt",
+            "type": "adblock",
+            "transformations": ["RemoveComments", "Validate"]
         },
         {
-            "name": "ad-wars",
-            "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
-            "type": "hosts"
+            "name": "AlexSannikov Ru",
+            "source": "https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/rueasylist.txt",
+            "type": "adblock",
+            "transformations": ["RemoveComments", "Validate"]
         },
         {
-            "name": "tiuxo",
-            "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
-            "type": "hosts"
+            "name": "AlexSannikov Gambling",
+            "source": "https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/gambling.txt",
+            "type": "adblock",
+            "transformations": ["RemoveComments", "Validate"]
         },
         {
-            "name": "Adguard DNS Filter",
-            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "hostsVN",
-            "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
-            "type": "hosts"
+            "name": "AlexSannikov Custom",
+            "source": "user-defined.txt",
+            "type": "adblock",
+            "transformations": ["RemoveComments", "Validate"]
         }
     ],
-    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+    "transformations": ["Deduplicate", "Compress"],
+    "exclusions_sources": ["adblock_whitelist.txt"]
 }
