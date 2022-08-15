@@ -1,6 +1,6 @@
 !
 ! Title: Fukuro Lite
-! Last modified: 2022-08-15T01:58:12.584Z
+! Last modified: 2022-08-15T12:38:48.577Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -104480,6 +104480,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||metaversn.site^
 ||analytics.audionow.de^
 ||oaprodlogging.yo-digital.com^
 ||analytics.e2estudios.com^
@@ -107635,6 +107636,7 @@
 ||affex.org^
 
 |piwik.
+||perf.hsforms.com^
 ||tr.www.cloudflare.com^
 ||client-metrics.chess.com^
 ||stat.kwikmotion.com^
@@ -110595,6 +110597,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adfox.yandex.ru^
 ||affiliates.minglematch.com^
 ||air.audioeye.com^
+||am.i.mullvad.net^
 ||analyse.bcovery.com^
 ||analytic.rollout.io^
 ||analytic.xingcloud.com^
@@ -110769,6 +110772,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
 ||filament-stats.herokuapp.com^
+||fingerprinter-production.herokuapp.com^
 ||flashstats.libsyn.com^
 ||flixgvid.flix360.io^
 ||fog.pixual.co^
@@ -110864,7 +110868,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pagesense-collect.zoho.com^
 ||partner.cynapse.com^
 ||pegasus.unifygroup.com^
-||perf.hsforms.com^
 ||perso.aws.arc.pub^
 ||pets.channeladvisor.com^
 ||ping.instantsearchplus.com^
@@ -116447,6 +116450,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mediab.uy^
 ||mesiniklan.andipublisher.com^
 ||newsupdatewe.info^
+||offdeck.telkomsel.com^
 ||offerjuice.me^
 ||onigagalai.ru^
 ||openadserving.com^
@@ -118252,6 +118256,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||666758.xyz^
 ||yfunkgk.cn^
 ||corlsblt.cyou^
+||zlgame.top^
+||vumnxwvf.ink^
+||tumnxwvd.ink^
+||itbwq.xyz^
+||mrshw.mobi^
+||vgrovkb.cn^
+||rbgfxxt.cn^
+||xsjh001.xyz^
+||gznxodg.cn^
+||jyuyjxx.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
