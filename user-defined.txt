@@ -41,7 +41,3 @@
 #
 ||phub.net.cable.rogers.com^$important
 ||imgaz.staticbg.com^$important
-
-# RegExp
-#
-/^protection\...police\.com/

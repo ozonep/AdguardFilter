@@ -14,18 +14,12 @@
             "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
         },
         {
-            "name": "AlexSannikov Gambling",
-            "source": "https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/gambling.txt",
-            "type": "adblock",
-            "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
-        },
-        {
             "name": "AlexSannikov Custom",
             "source": "https://raw.githubusercontent.com/ozonep/AdguardFilter/main/user-defined.txt",
             "type": "adblock",
             "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
         }
     ],
-    "transformations": ["Deduplicate", "Compress"],
+    "transformations": ["RemoveComments", "Deduplicate", "Compress"],
     "exclusions_sources": ["adblock_whitelist.txt"]
 }
