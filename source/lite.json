@@ -21,7 +21,7 @@
         },
         {
             "name": "AlexSannikov Custom",
-            "source": "user-defined.txt",
+            "source": "https://raw.githubusercontent.com/ozonep/AdguardFilter/main/user-defined.txt",
             "type": "adblock",
             "transformations": ["RemoveComments", "Validate"]
         }
