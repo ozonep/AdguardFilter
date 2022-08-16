@@ -11,3 +11,4 @@
 @@||web.facebook.com
 @@||zoom.us^$important
 @@||yastatic.net^$important
+@@||sentry.io^$important
