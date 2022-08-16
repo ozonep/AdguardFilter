@@ -12,3 +12,4 @@
 @@||zoom.us^$important
 @@||yastatic.net^$important
 @@||sentry.io^$important
+@@||yandex.net^$important
