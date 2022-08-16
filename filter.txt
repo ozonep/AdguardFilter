@@ -1,6 +1,6 @@
 !
 ! Title: Adguard Ru Lite
-! Last modified: 2022-08-16T06:34:28.511Z
+! Last modified: 2022-08-16T12:06:39.382Z
 !
 ! Compiled by hostlist-compiler-ozonep v1.0.14
 !
@@ -82521,6 +82521,10 @@
 ||zetpoker.eu^
 ||zodiacu.com^
 ||zpisportbk.com^
+||samazd.com^
+||mpaphqjb.com^
+||ruogesfshygsj.com^
+||disurm.com^
 ||imilroshoors.com^
 ||thathechoxe.com^
 ||glaichid.net^
@@ -106326,7 +106330,6 @@ vkcdnservice.appspot.com^
 ||btstatic.com^
 ||btttag.com^
 ||bubblestat.com^
-||bugherd.com^
 ||burstbeacon.com^
 ||burt.io^
 ||bux1le001.com^
@@ -108222,6 +108225,7 @@ vkcdnservice.appspot.com^
 ||visilabs.net^
 .ay.delivery^
 ||functionalclam.com^
+||flowerstreatment.com^
 ||pocketfaucet.com^
 ||childlikecrowd.com^
 ||stretchsister.com^
@@ -110665,7 +110669,6 @@ vkcdnservice.appspot.com^
 ||stats.mehrnews.com^
 ||stats.mirror.co.uk^
 ||stats.muasamcong.gov.vn^
-||stats.norton.com^
 ||stats.nymag.com^
 ||stats.olark.com^
 ||stats.opoloo.de^
@@ -112821,7 +112824,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fangfeeling.com^
 ||fastenfather.com^
 ||fifthborder.com^
-||flowerstreatment.com^
 ||frailfruit.com^
 ||frantictrail.com^
 ||fronttoad.com^
@@ -122003,6 +122005,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vivachina.co^
 ||sxbexrv.cn^
 ||zzyl.mobi^
+||accentneglectporter.com^
+||666759.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
