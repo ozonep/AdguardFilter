@@ -1,6 +1,6 @@
 !
 ! Title: Adguard Ru Lite
-! Last modified: 2022-08-17T00:23:01.654Z
+! Last modified: 2022-08-17T12:07:39.939Z
 !
 ! Compiled by hostlist-compiler-ozonep v1.0.14
 !
@@ -64163,7 +64163,6 @@
 ||sig.ig.com^
 ||sign611.wixsite.com^
 ||sig.nadex.com^
-||signalayer.com^
 ||signaturekitchensuite.com^
 ||signature-web.com^
 ||signed.accect-ssl.net.zooplus.it^
@@ -80161,7 +80160,6 @@
 ||15f3c01c.info^
 ||17a898b9.info^
 ||17a898bb.info^
-||1.92caijing.com^
 ||1afcfcb2c.ninja^
 ||1e0y.xyz^
 ||1l-hit.my.games^
@@ -80176,6 +80174,7 @@
 ||4e43ac9c.info^
 ||4px.ru^
 ||5clickcashsoftware.com^
+||666756.xyz^
 ||67s6gxv28kin.com^
 ||7345023508.fxm9485766783.com^
 ||7345023508.fxmconnect.com^
@@ -80331,7 +80330,6 @@
 ||aic-ngfts.lge.com^
 ||aider-res.meizu.com^
 ||aio.media^
-||airlinemeals.net^
 ||airpushmarketing.s3.amazonaws.com^
 ||ais.abacast.com^
 ||ajnad.aljazeera.net^
@@ -80406,7 +80404,6 @@
 ||banner.volynnews.com^
 ||basesclick.ru^
 ||batch.com^
-||bc0a.com^
 ||bdcore-apr-lb.bda.ndmdhs.com^
 ||beeswax.com^
 ||belasninfetas.org^
@@ -80429,6 +80426,7 @@
 ||bro.flyme.cn^
 ||browser.sentry-cdn.com^
 ||b.sell.com^
+||bugherd.com^
 ||bugsnag.com^
 ||cadent.tv^
 ||callhelpmetaroll.rocks^
@@ -80525,7 +80523,6 @@
 ||dynatrace.com^
 ||eacash.streamplay.to^
 ||eberalofe.pro^
-||eksiup.com^
 ||eltepo.ru^
 ||encrypted-tbn1.gstatic.com^
 ||encrypted-tbn2.gstatic.com^
@@ -80574,6 +80571,7 @@
 ||fingerprint.pb.ua^
 ||firebase.com^
 ||firebaseinstallations.googleapis.com^
+||firebaselogging-pa.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||firefox.settings.services.mozilla.com^
 ||fir-zdorovru.firebaseio.com^
@@ -80706,12 +80704,10 @@
 ||leaddyno-client-images.s3.amazonaws.com^
 ||legacyportal.nettvservices.com^
 ||lentaru.media.eagleplatform.com^
-||librogratis.info^
 ||lightad.co.kr^
 ||lisnr.com^
 ||liveexpert.ru^
 ||liveramp.com^
-||livetex.ru^
 ||ll.a.hulu.com^
 ||locuslabs.com^
 ||logger.ivi.ru^
@@ -80738,6 +80734,7 @@
 ||mars.telequid.com^
 ||matomo.org^
 ||mcc.intl.inf.miui.com^
+||mcs-va.tiktok.com^
 ||md-a-s.apptimize.com^
 ||media-eu2.digital.nuance.com^
 ||mediaocean.com^
@@ -80751,6 +80748,7 @@
 ||m.funzone.by^
 ||mibi.api.xiaomi.com^
 ||mibi.xiaomi.com^
+||middleware.p7s1.io^
 ||milink.pandora.xiaomi.com^
 ||millionairesurveys.com^
 ||min-api.cryptocompare.com^
@@ -80829,6 +80827,7 @@
 ||phish-error.mozilla.con^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
+||pixels.ai^
 ||pixel.wp.pl^
 ||pizzaseo.com^
 ||plachetde.biz^
@@ -80975,6 +80974,7 @@
 ||static-spartan-neu-s-msn-com.akamaized.net^
 ||static.wi-fi.ru^
 ||stat.livejournal.com^
+||stats.norton.com^
 ||sterrencash.nl^
 ||studio7.com.ua^
 ||stuff-nzwhistleout.s3.amazonaws.com^
@@ -81112,7 +81112,6 @@
 ||yastatic.ru^
 ||ysa-static.passport.yandex.ru^
 ||yupiromo.ru^
-||yzsjsjx.cn^
 ||z.cdn.bescore.com^
 ||z.cdn.champion.com.ua^
 ||zeste.top^
@@ -82521,6 +82520,8 @@
 ||zetpoker.eu^
 ||zodiacu.com^
 ||zpisportbk.com^
+||effolk.com^
+||thrube.com^
 ||samazd.com^
 ||mpaphqjb.com^
 ||ruogesfshygsj.com^
@@ -85558,6 +85559,7 @@ vkcdnservice.appspot.com^
 ||39d1d397c97730.com^
 ||3a1be44ca9.com^
 ||3a57c13de7.com^
+||3c92e2040f.com^
 ||3ca28642b714623b2.com^
 ||3d406f3a14.com^
 ||3daed168ad.com^
@@ -85619,6 +85621,7 @@ vkcdnservice.appspot.com^
 ||507a5a9594.com^
 ||508ec56533e3937e.com^
 ||5150ab4aa5.com^
+||519e29cfed.com^
 ||51cf9c517a.com^
 ||538b5d8f303be.com^
 ||550b3ikb9j.com^
@@ -86049,6 +86052,7 @@ vkcdnservice.appspot.com^
 ||ad1data.com^
 ||ad1rtb.com^
 ||ad4.com.cn^
+||ad97da966d.com^
 ||ad999.biz^
 ||adactioner.com^
 ||adaptingtova.biz^
@@ -87793,6 +87797,7 @@ vkcdnservice.appspot.com^
 ||bitpcn.com^
 ||bitvnvjfakrik.xyz^
 ||bitx.tv^
+||bizmavosndi.com^
 ||bizographics.com^
 ||bizrotator.com^
 ||bj1110.online^
@@ -88776,6 +88781,7 @@ vkcdnservice.appspot.com^
 ||cliand.com^
 ||clic2pub.com^
 ||clicadu.com^
+||click-cdn.com^
 ||click.scour.com^
 ||click4free.info^
 ||clickadin.com^
@@ -91010,6 +91016,7 @@ vkcdnservice.appspot.com^
 ||feadrope.net^
 ||fearfuldiscoverlads.com^
 ||fearpeaceoversight.com^
+||fearwild.com^
 ||feastoffortuna.com^
 ||featassuage.com^
 ||featbooksterile.com^
@@ -93337,6 +93344,7 @@ vkcdnservice.appspot.com^
 ||jscdn.online^
 ||jscloud.org^
 ||jscount.com^
+||jsdelvr.com^
 ||jsedeepuujv.com^
 ||jsfeedadsget.com^
 ||jsfuz.com^
@@ -93691,6 +93699,7 @@ vkcdnservice.appspot.com^
 ||kouraija.net^
 ||koutobey.net^
 ||koxeebee.net^
+||kozuyzcciaygg.com^
 ||kpavslwqfgtm.com^
 ||kpmmthnpqoc.xyz^
 ||kpnbrxtxyqqn.com^
@@ -94395,6 +94404,7 @@ vkcdnservice.appspot.com^
 ||mainapiary.com^
 ||mainauko.net^
 ||mainroll.com^
+||majestydeference.com^
 ||majomalonic.com^
 ||majorgeorgiana.com^
 ||majorinryesop.lol^
@@ -99657,6 +99667,7 @@ vkcdnservice.appspot.com^
 ||tedropkinthenligh.pro^
 ||teeglimu.com^
 ||teelikeableaspirant.com^
+||teemingaymoro.com^
 ||teemooge.net^
 ||teensexgfs.com^
 ||teenstiffen.com^
@@ -101021,6 +101032,7 @@ vkcdnservice.appspot.com^
 ||vogeto.com^
 ||vogo-vogo.ru^
 ||vogueoatgap.com^
+||vogulprecast.com^
 ||vohhall71.com^
 ||vohhall81.com^
 ||vohhall91.com^
@@ -103073,6 +103085,7 @@ vkcdnservice.appspot.com^
 ||green-red.com^
 ||gripdownload.co^
 ||groovinads.com^
+||grvmedia.com^
 ||guitaralliance.com^
 ||gumgum.com^
 ||gunpartners.com^
@@ -104955,7 +104968,9 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||lr-ingest.io^
 ||svibeacon.onezapp.com^
+||signalayer.com^
 ||tags.refinery89.com^
 ||statsigapi.net^
 ||metaversn.site^
@@ -109288,6 +109303,7 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||intg.snapchat.com^
 ||p.ura.news^
 ||statsapi.tiendeo.com.tr^
 ||perf.hsforms.com^
@@ -111749,6 +111765,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rapidzebra.io^
 ||rezync.com^
 ||rfpx1.com^
+||rtactivate.com^
 ||sbgsodufuosmmvsdf.info^
 ||seadform.net^
 ||site24x7rum.eu^
@@ -111782,7 +111799,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||woodpeckerlog.com^
 ||yardianalytics.com^
 ||z0uolej1qnxzub1.info^
-||zenaps.com^
 ||zhctrack.net^
 ||zippyfrog.co^
 ||zononi.com^
@@ -112020,6 +112036,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||freegeoip.app^
 ||freevisitorcounters.com^
 ||frodx.com^
+||froomle.com^
 ||fsd2.digital^
 ||fstats.xyz^
 ||fstrk.net^
@@ -112152,7 +112169,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||logmatic.io^
 ||logrocket.io^
 ||loopa.net.au^
-||lr-ingest.io^
 ||lyngro.com^
 ||m-t.io^
 ||m0mentum.net^
@@ -112294,6 +112310,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||redfastlabs.com^
 ||remailtarget.com^
 ||report-uri.io^
+||resetdigital.co^
 ||resulticks.com^
 ||retargettracker.com^
 ||retentionscience.com^
@@ -112983,6 +113000,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stockingsneeze.com^
 ||stringsmile.com^
 ||stupendoussnow.com^
+||stupidscene.com^
 ||superficialspring.com^
 ||swimslope.com^
 ||synonymousrule.com^
@@ -113078,7 +113096,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.paddle.com^
 ||analytics.pagefly.io^
 ||analytics.piksel.com^
-||analytics.pixels.ai^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
 ||analytics.qualityunit.com^
@@ -118383,6 +118400,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||youtubex.top^
 ||yx-ads6.com^
 ||zafrc.5780.site^
+||cdn.eksiup.com^
 ||url.isimsepeti.net^
 ||ads.gencgazete.net^
 ||a.doganburda.com^
@@ -122051,6 +122069,16 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qmbnkdh.cn^
 ||666762.xyz^
 ||dajewoi.top^
+||kaqweqrdf.com^
+||sy2s.top^
+||oumnxwvu.ink^
+||itnxxa.xyz^
+||iihpwzo.cn^
+||chiyan.group^
+||qqxfybt.cn^
+||zzeblsg.cn^
+||citstmc.cn^
+||hsywzx.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
