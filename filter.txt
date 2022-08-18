@@ -1,6 +1,6 @@
 !
 ! Title: Adguard Ru Lite
-! Last modified: 2022-08-18T00:22:10.427Z
+! Last modified: 2022-08-18T12:07:40.328Z
 !
 ! Compiled by hostlist-compiler-ozonep v1.0.14
 !
@@ -109326,6 +109326,8 @@ vkcdnservice.appspot.com^
 ||t.yesware.com^
 ||tagman.britishairways.com^
 |piwik.
+||event-collector.prd.data.s.joyn.de^
+||clanker-events.squarespace.com^
 ||analytics.newscred.com^
 ||analytics.digitalpfizer.com^
 ||intg.snapchat.com^
@@ -118712,6 +118714,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||widget-view.dmm.co.jp^
 ||widget-view.dmm.com^
 ||maillovelove.net^
+||widget.marktjagd.de^
 ||cwi.re^
 ||a.zdg.de^
 ||cockpit.symplr.de^
@@ -120163,6 +120166,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||elink.nhanlucnganhluat.vn^
 ||elogs.vnexpress.net^
 ||ema.hostvn.net^
+||event.filum.ai^
 ||event.headlines.pw^
 ||fa.fpt.shop^
 ||facebookinbox-omni-onapp.haravan.com^
@@ -122112,6 +122116,17 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ma3s.top^
 ||qdxsodq.cn^
 ||miatip.cn^
+||pwqtkap.cn^
+||ogcyshr.cn^
+||wisafnie.space^
+||kjcnve.xyz^
+||iuyuwh.cn^
+||bhny.asia^
+||d7y5grtl.site^
+||iumnxwvh.ink^
+||5hte21mz.com^
+||oldulgk.cn^
+||qimooc.wang^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
