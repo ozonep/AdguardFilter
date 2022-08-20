@@ -1,6 +1,6 @@
 !
 ! Title: Adguard Ru Lite
-! Last modified: 2022-08-20T19:35:34.075Z
+! Last modified: 2022-08-20T23:05:29.067Z
 !
 ! Compiled by hostlist-compiler-ozonep v1.0.14
 !
