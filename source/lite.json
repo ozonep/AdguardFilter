@@ -2,12 +2,6 @@
     "name": "Adguard Ru Lite",
     "sources": [
         {
-            "name": "Adguard DNS Filter",
-            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-            "type": "adblock",
-            "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
-        },
-        {
             "name": "AlexSannikov Main",
             "source": "https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/admalware.txt",
             "type": "adblock",
