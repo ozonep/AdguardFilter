@@ -1,3 +1,18 @@
+# Do NOT block
+#
+@@||*^$client=127.0.0.1
+@@||ssl.p.jwpcdn.com^$important
+@@||4shared.com^$important
+@@||fonts.gstatic.com^$important
+@@||olg.ca^$important
+@@||track.4px.com^$important
+#@@||ad.admitad.com^$important
+@@||mobile.facebook.com^$important
+@@||graph.facebook.com
+@@||edge-chat.facebook.com^$important
+@@||star.c10r.facebook.com
+@@||web.facebook.com
+@@||zoom.us^$important
 #
 # Skype Ads
 #
@@ -10,7 +25,7 @@
 ||static.skypeassets.com^
 ||static.skypeassets.net^
 ||lm.auslogics.com^
-
+!
 # Microsoft telemetry
 #
 ||*telemetry*.microsoft.com*^
@@ -23,7 +38,7 @@
 ||vo.msecnd.net^
 ||i1.services.social.microsoft.com*^
 ||spynet*.microsoft.com^
-
+!
 # Microsoft
 #
 ||compatexchange.cloudapp.net^
@@ -32,12 +47,16 @@
 ||diagnostics.support.microsoft.com^
 ||feedback.windows.com^
 ||data.microsoft.com^
-
+!
 # uTorrent ads
 #
 ||static.ap.bittorrent.com^
-
+!
 # Extra sources
 #
 ||phub.net.cable.rogers.com^$important
 ||imgaz.staticbg.com^$important
+!
+# RegExp
+#
+/^protection\...police\.com/

@@ -2,6 +2,12 @@
     "name": "Adguard Ru Lite",
     "sources": [
         {
+            "name": "Adguard DNS Filter",
+            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+            "type": "adblock",
+            "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
+        },
+        {
             "name": "AlexSannikov Main",
             "source": "https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/admalware.txt",
             "type": "adblock",
@@ -20,8 +26,8 @@
             "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
         },
         {
-            "name": "Adguard DNS Filter",
-            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+            "name": "AlexSannikov Porn",
+            "source": "https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/porn.txt",
             "type": "adblock",
             "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
         },
@@ -32,6 +38,6 @@
             "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
         }
     ],
-    "transformations": ["RemoveComments", "Deduplicate", "Compress"],
+    "transformations": ["RemoveComments", "Deduplicate", "Compress", "TrimLines", "InsertFinalNewLine", "RemoveEmptyLines"],
     "exclusions_sources": ["https://raw.githubusercontent.com/ozonep/AdguardFilter/main/adblock_whitelist.txt"]
 }
