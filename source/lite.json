@@ -2,36 +2,65 @@
     "name": "Adguard Ru Lite",
     "sources": [
         {
+            "name": "Adguard DNS Filter",
+            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Validate",
+                "RemoveEmptyLines"
+            ]
+        },
+        {
             "name": "AlexSannikov Main",
             "source": "https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/admalware.txt",
             "type": "adblock",
-            "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
+            "transformations": [
+                "RemoveComments",
+                "Validate",
+                "RemoveEmptyLines"
+            ]
         },
         {
             "name": "AlexSannikov Ru",
             "source": "https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/rueasylist.txt",
             "type": "adblock",
-            "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
+            "transformations": [
+                "RemoveComments",
+                "Validate",
+                "RemoveEmptyLines"
+            ]
         },
         {
             "name": "AlexSannikov Gambling",
             "source": "https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/gambling.txt",
             "type": "adblock",
-            "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
-        },
-        {
-            "name": "AlexSannikov Porn",
-            "source": "https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/porn.txt",
-            "type": "adblock",
-            "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
+            "transformations": [
+                "RemoveComments",
+                "Validate",
+                "RemoveEmptyLines"
+            ]
         },
         {
             "name": "AlexSannikov Custom",
             "source": "https://raw.githubusercontent.com/ozonep/AdguardFilter/main/user-defined.txt",
             "type": "adblock",
-            "transformations": ["RemoveComments", "Validate", "RemoveEmptyLines"]
+            "transformations": [
+                "RemoveComments",
+                "Validate",
+                "RemoveEmptyLines"
+            ]
         }
     ],
-    "transformations": ["RemoveComments", "Deduplicate", "Compress", "TrimLines", "InsertFinalNewLine", "RemoveEmptyLines"],
-    "exclusions_sources": ["https://raw.githubusercontent.com/ozonep/AdguardFilter/main/adblock_whitelist.txt"]
+    "transformations": [
+        "RemoveComments",
+        "Deduplicate",
+        "Compress",
+        "TrimLines",
+        "InsertFinalNewLine",
+        "RemoveEmptyLines"
+    ],
+    "exclusions_sources": [
+        "https://raw.githubusercontent.com/ozonep/AdguardFilter/main/adblock_whitelist.txt"
+    ]
 }
