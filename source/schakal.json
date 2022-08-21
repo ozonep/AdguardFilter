@@ -1,0 +1,19 @@
+{
+    "name": "Schakal Only",
+    "sources": [
+        {
+            "name": "Energized Pro",
+            "source": "https://schakal.ru/hosts/alive_hosts_ru_com_zen.txt",
+            "type": "hosts",
+            "transformations": [
+                "RemoveComments",
+                "Deduplicate",
+                "Compress",
+                "TrimLines",
+                "InsertFinalNewLine",
+                "RemoveEmptyLines",
+                "Validate"
+            ]
+        }
+    ]
+}

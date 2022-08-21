@@ -17,6 +17,9 @@ jobs:
     
     - name: Compile Main list
       run: hostlist-compiler -c ./source/lite.json -o filter.txt
+
+    - name: Compile Schakal list
+      run: hostlist-compiler -c ./source/schakal.json -o schakal.txt
          
     - name: Commit changes
       uses: EndBug/add-and-commit@v9
