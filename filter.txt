@@ -1,6 +1,6 @@
 !
 ! Title: Adguard Ru Lite
-! Last modified: 2022-08-21T07:35:21.614Z
+! Last modified: 2022-08-21T08:03:25.144Z
 !
 ! Compiled by hostlist-compiler-ozonep v1.0.14
 !
@@ -21903,8 +21903,6 @@ vkcdnservice.appspot.com^
 ||sspapi-prd.samsungrs.com^
 ||api.appnxt.net^
 ||apis.appnxt.net^
-||banners-slb.mobile.yandex.net^
-||banners.mobile.yandex.net^
 ||app.ssp.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||ads.go2reach.com^
@@ -27546,7 +27544,6 @@ vkcdnservice.appspot.com^
 ||exacttarget.api.mashery.com^
 ||exc.ns.nl^
 ||experience.contextly.com^
-||external-promo-metrics.yandex.net^
 ||f7ds.liberation.fr^
 ||fairfaxmedia.sharedcount.com^
 ||farmer.wego.com^
@@ -29106,7 +29103,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||adv.sec.miui.com^
 ||advmob.cn^
 ||amp-error-reporting.appspot.com^
-||analytics.mobile.yandex.net^
 ||analyzer.omniata.com^
 ||andmlb.kshwtj.com^
 ||api-analytics-bootstrap.metaps.com^
@@ -29115,7 +29111,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||api.appsee.com^
 ||api.gimbal.com^
 ||api.sec.miui.com^
-||appmetrica.yandex.net^
 ||beacon.carfax.com^
 ||beacon.shazam.com^
 ||beha.ksmobile.com^
@@ -30684,7 +30679,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||audit.303br.net^
 ||audit.median.hu^
 ||aurora-d3.herokuapp.com^
-||awaps.yandex.net^
 ||awesome.section.io^
 ||ax.babe.today^
 ||axislogger.appspot.com^
@@ -31212,7 +31206,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analytics.samsungknox.com^
 ||app.chat.xiaomi.net^
 ||data.hicloud.com^
-||extmaps-api.yandex.net^
 ||logbak.hicloud.com^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
@@ -31928,7 +31921,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||views.cancan.ro^
 ||vlogs.deja.media^
 ||awaps.yandex.ru^
-||browser-updater.yandex.net^
 ||cdn-rum.ngenix.net^
 ||cnstats.cdev.eu^
 ||count.yandeg.ru^
@@ -114652,7 +114644,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||startrekk.flaconi.fr^
 ||startrekk.flaconi.pl^
 ||startuploans.co.uk^
-||startup.mobile.yandex.net^
 ||startup-orlen.biz^
 ||startuporlen.biz^
 ||startup-orlen.us^
@@ -128491,6 +128482,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yamstamp.com^
 ||yandex.com^
 ||yandexdatafactory.com^
+||yandex.net^
 ||yastatic.ru^
 ||ysa-static.passport.yandex.ru^
 ||yupiromo.ru^
