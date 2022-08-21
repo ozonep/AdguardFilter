@@ -15,5 +15,8 @@
                 "Validate"
             ]
         }
+    ],
+    "exclusions_sources": [
+        "https://raw.githubusercontent.com/ozonep/AdguardFilter/main/adblock_whitelist.txt"
     ]
 }
